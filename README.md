@@ -5,7 +5,7 @@ Backend Develepor
 -----------------
 
 * ✉️  You can contact me at [okan.tasin@hotmail.com](mailto:okan.tasin@hotmail.com)
-* 🧠  I'm learning Spring Framework and many web technology.
+* 🧠  I am trying to learn many web technologies like Spring Framework.
 * 🌱 I'm trying to improve myself on web programming
 * ⚡ Fun fact: I am interested in fitness.
 
