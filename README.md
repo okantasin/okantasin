@@ -6,6 +6,8 @@ Backend Develepor
 
 * ✉️  You can contact me at [okan.tasin@hotmail.com](mailto:okan.tasin@hotmail.com)
 * 🧠  I'm learning Spring Framework
+* 🌱 I'm trying to improve myself on web programming
+* ⚡ Fun fact: I am interested in fitness.
 
 ### Skills
 
@@ -20,3 +22,5 @@ Backend Develepor
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/okantasin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/okan-taşin-01166571/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/OkanTasin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
